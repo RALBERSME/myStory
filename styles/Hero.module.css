@@ -122,7 +122,8 @@
   }
   .heroBook {
     width: 100%;
-    height: 200;
+    height: 150;
+    margin-left: 12px;
   }
   .heroText {
     display: flex;
