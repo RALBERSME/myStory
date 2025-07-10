@@ -145,13 +145,14 @@
     height: 16rem;
     border-radius: 1rem;
     margin-top: -40px;
+    align-items: center;
   }
   .ImageWrapper:hover {
     transform: scale(1.1);
   }
   .bookImage {
     height: 250;
-    width: 280;
+    width: 90%;
   }
   .right {
     font-size: 1.6rem;

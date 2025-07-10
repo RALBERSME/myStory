@@ -121,8 +121,8 @@
     font-size: 1rem;
   }
   .heroBook {
-    width: 300;
-    height: 300;
+    width: 100%;
+    height: 200;
   }
   .heroText {
     display: flex;
@@ -140,7 +140,8 @@
   }
   .imageContainer {
     margin-top: 30px;
-    width: 18rem;
+    width: 14rem;
+    align-items: center;
   }
   .Contact {
     display: none;
