@@ -88,7 +88,7 @@ export default function Book({ oneBook, id }) {
       details:
         "Get to know the diverse sides of Argentina. In addition to gaining deeper insights into the country's political development and welcoming Evita Peron, you'll also enjoy tango and South American music. Excursions to Tierra del Fuego make this trip incredibly interesting.",
       time: 1.15,
-      smallScreen: true,
+      smallScreen: false,
     },
     {
       id: 9,
